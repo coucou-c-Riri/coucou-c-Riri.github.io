@@ -1,0 +1,47 @@
+.titre h1{
+margin-top: 7%;
+font-size: 60px;
+color:orange;
+text-align:center;
+}
+
+body{
+background-color: black;
+}
+
+
+.menu-top ul{
+
+display:flex;
+justify-content: space-around;
+font-size: 24px;
+padding: 20px;
+background-color: orange;
+position: static;
+}
+
+
+
+.menu-top li{
+list-style-type:none;
+}
+
+.liste_manga ul{
+margin: 100;
+display:flex;
+justify-content: space-around;
+}
+
+.liste_manga li{
+list-style-type:none;
+font-color: white;
+}
+
+.liste_manga p{
+text-align: center;
+}
+
+.liste_manga img{
+width: 80%;
+height: 100%
+}
